@@ -2,7 +2,6 @@
 #  * Retângulo (area = base * altura)
 #  * Triângulo (area = (base * altura)/2 )
 #  * Círculo (area = ℼ * r²)
-#---------------------------------------------------------------------------------------------------------#
 import math
 #Retângulo
 
@@ -70,5 +69,3 @@ while alternativas:
 
     else:
         print("\n Tente novamente!")
-
-
